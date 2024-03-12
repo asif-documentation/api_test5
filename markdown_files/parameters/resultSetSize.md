@@ -1,0 +1,1 @@
+Result set size for current page

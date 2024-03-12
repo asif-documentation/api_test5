@@ -1,0 +1,1 @@
+The domain in which the user authenticated.

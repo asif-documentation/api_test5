@@ -1,0 +1,1 @@
+Is the form currently enabled and available for data collection

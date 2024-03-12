@@ -1,0 +1,1 @@
+When a form is private, the Player will not be accessible via its URL unless a valid instance token is provided

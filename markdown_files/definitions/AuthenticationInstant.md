@@ -1,0 +1,1 @@
+A sender-generated value that indicates the date and time that the signer was authenticated.

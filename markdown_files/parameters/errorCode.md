@@ -1,0 +1,1 @@
+A granular, human and computer readable code indicating more deeply what error occurred.

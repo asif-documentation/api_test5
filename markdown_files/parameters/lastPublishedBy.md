@@ -1,0 +1,1 @@
+Track the user that last published a draft version to active

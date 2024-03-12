@@ -1,0 +1,1 @@
+Information about a DocuSign system user. The user exists within the account associated with the form.

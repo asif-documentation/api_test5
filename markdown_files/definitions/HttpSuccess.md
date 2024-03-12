@@ -1,0 +1,1 @@
+A simple response indicating success when no extra data is needed

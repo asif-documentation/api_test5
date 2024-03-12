@@ -1,0 +1,1 @@
+A value that most closely matches the technique your application used to authenticate the recipient / signer.

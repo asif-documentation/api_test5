@@ -1,0 +1,1 @@
+Track the last time a draft version was published to active

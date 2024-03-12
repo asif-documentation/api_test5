@@ -1,0 +1,1 @@
+A human-readable description of the error, meant for developers to store for their review.

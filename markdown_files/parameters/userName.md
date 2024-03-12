@@ -1,0 +1,1 @@
+Name of the user that can be displayed in the user interface.

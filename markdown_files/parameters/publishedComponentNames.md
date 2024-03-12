@@ -1,0 +1,1 @@
+A dictionary containing the mapping of component names to their respective component types for all the published components.

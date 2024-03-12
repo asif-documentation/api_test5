@@ -1,0 +1,1 @@
+Type of components used in the web form

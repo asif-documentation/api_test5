@@ -1,0 +1,1 @@
+A unique identifier of the authentication event executed by the client application.

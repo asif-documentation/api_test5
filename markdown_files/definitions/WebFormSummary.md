@@ -1,0 +1,1 @@
+An object that summarizes an instance of a form that can be used to display a listing

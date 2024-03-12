@@ -1,0 +1,1 @@
+The user that has added their consent to the form for sending actions

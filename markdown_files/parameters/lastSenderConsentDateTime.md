@@ -1,0 +1,1 @@
+Track the last time a user added their consent for the form.

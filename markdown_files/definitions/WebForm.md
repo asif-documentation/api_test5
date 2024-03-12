@@ -1,0 +1,1 @@
+An object that fully describes an instance of a form

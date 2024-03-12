@@ -1,0 +1,1 @@
+Container for the components map used during configuration and data collection
